@@ -1,2 +1,1 @@
-Ссылка:
-https://www.codewars.com/kata/find-the-next-perfect-square/
+[Link](https://www.codewars.com/kata/find-the-next-perfect-square/)
