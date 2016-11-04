@@ -1,2 +1,1 @@
-Ссылка:
-https://www.codewars.com/kata/disemvowel-trolls/
+[Link](https://www.codewars.com/kata/disemvowel-trolls/)
