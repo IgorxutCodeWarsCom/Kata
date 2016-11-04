@@ -1,2 +1,1 @@
-Ссылка:
-https://www.codewars.com/kata/vasya-clerk/
+[Link](https://www.codewars.com/kata/vasya-clerk/)
