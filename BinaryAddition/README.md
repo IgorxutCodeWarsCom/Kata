@@ -1,2 +1,1 @@
-Ссылка:
-https://www.codewars.com/kata/binary-addition/
+[Link](https://www.codewars.com/kata/binary-addition/)
