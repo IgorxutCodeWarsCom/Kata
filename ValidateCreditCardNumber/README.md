@@ -1,2 +1,1 @@
-Ссылка:
-https://www.codewars.com/kata/validate-credit-card-number/
+[Link](https://www.codewars.com/kata/validate-credit-card-number/)
