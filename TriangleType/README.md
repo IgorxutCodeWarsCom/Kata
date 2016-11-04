@@ -1,2 +1,1 @@
-Ссылка:
-https://www.codewars.com/kata/triangle-type/solutions/
+[Link](https://www.codewars.com/kata/triangle-type/solutions/)
