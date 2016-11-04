@@ -1,4 +1,3 @@
 # Kata
 
-Ссылка:
-https://www.codewars.com/
+[Link to site](https://www.codewars.com/)
