@@ -1,2 +1,1 @@
-Ссылка:
-https://www.codewars.com/kata/tribonacci-sequence/
+[Link](https://www.codewars.com/kata/tribonacci-sequence/)
